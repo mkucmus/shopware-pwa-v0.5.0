@@ -1,4 +1,4 @@
-# shopware-pwa-project
+# shopware-pwa v0.5.0
 
 Welcome to the live sandbox at codesandbox! You have a running shopware-pwa project now, ready for your commands!
 
@@ -6,7 +6,7 @@ If you are not familiar with the project, visit [official documentation](https:/
 
 ## Live customization
 
-Feel free to customize the application by using standard CLI commands
+Feel free to customize the application by using standard CLI commands in the codesandbox's terminal - **open the new one next to the dev terminal with the nuxt output**.
 
 ```bash
 node_modules/@shopware-pwa/cli/bin/shopware-pwa -h
