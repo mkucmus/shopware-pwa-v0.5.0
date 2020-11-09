@@ -1,4 +1,4 @@
-# shopware-pwa v0.5.0
+# shopware-pwa v0.5.1
 
 Welcome to the live sandbox at codesandbox! You have a running shopware-pwa project now, ready for your commands!
 
@@ -11,7 +11,7 @@ Feel free to customize the application by using standard CLI commands in the cod
 ```bash
 node_modules/@shopware-pwa/cli/bin/shopware-pwa -h
 
-shopware-pwa version 0.5.0
+shopware-pwa version 0.5.x
 
   version (v)     Output the version number
   build           Build your project for production

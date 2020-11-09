@@ -1497,12 +1497,12 @@
     mustache "^2.3.0"
     stack-trace "0.0.10"
 
-"@shopware-pwa/cli@0.5.0":
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/@shopware-pwa/cli/-/cli-0.5.0.tgz#3b50bb21a21e207f60a5fe68af504e73be4fa5cb"
-  integrity sha512-5qCG73+0lHCYnDzPyW+EHtUH0eGHMFJCtCJLMs18UUqrO/OnuDvjMY5o5fzAMN9vGmiAxueN1ltLgfVbLV2Y3w==
+"@shopware-pwa/cli@0.5.1":
+  version "0.5.1"
+  resolved "https://registry.yarnpkg.com/@shopware-pwa/cli/-/cli-0.5.1.tgz#4444dab2d889cbd60975a5c0367670cdd03de156"
+  integrity sha512-5dyir2HTBFWD7YYa4cOjnGUAMi0/MAIhl9k9TcNW411wCQLduZ1l987OP5NmL3immzJYqUFUyuB+a/cNeBtEzg==
   dependencies:
-    "@shopware-pwa/shopware-6-client" "0.5.0"
+    "@shopware-pwa/shopware-6-client" "0.5.1"
     chokidar "^3.4.3"
     gluegun "^4.4.0"
     lodash "^4.17.20"
@@ -1511,29 +1511,29 @@
     unzipper "^0.10.11"
     validate-npm-package-name "^3.0.0"
 
-"@shopware-pwa/commons@0.5.0":
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/@shopware-pwa/commons/-/commons-0.5.0.tgz#4092441e6c06e2491a3bb0714743f9cf8057d9a7"
-  integrity sha512-637w322PoXGD/cx1bbx5D68gQg/FYab8kDnTalR7iuMV9jjYo250r7GKgyvYnfyS+oYt80vFZLR614d1hfAVrA==
+"@shopware-pwa/commons@0.5.1":
+  version "0.5.1"
+  resolved "https://registry.yarnpkg.com/@shopware-pwa/commons/-/commons-0.5.1.tgz#c2415e4f5e77d6eaae4f078f801590883c12f835"
+  integrity sha512-zlzNMqHfO5XSzlBtbmUC83cRd8o92IBbc4EsVrVwL4voyAuwkNtEM6ue41k4/QsrYkTpvJPo07LvVV3iF5YIqg==
 
-"@shopware-pwa/composables@0.5.0":
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/@shopware-pwa/composables/-/composables-0.5.0.tgz#4c1d0ef3dadd85666ba62dd09d77835f118c49dd"
-  integrity sha512-JDu88boR0rckovEcE+HGXG0qrSWkEhBZHzpi1Ij5pwHDa9rqs6iQ2L/fAP3eyvJwYnFHLnURkVxBJMBZxJtdCQ==
+"@shopware-pwa/composables@0.5.1":
+  version "0.5.1"
+  resolved "https://registry.yarnpkg.com/@shopware-pwa/composables/-/composables-0.5.1.tgz#8a36161ed60a844083f6b7eedbbea250117f6ac5"
+  integrity sha512-xMik3dojhFnLzsublsTVbTahEEb89Pl6hsZDjSDJ8S2mChxAQ5Of2vOBKdgurCZPxt7ty/WNcJ2UnET9dXBR+w==
   dependencies:
-    "@shopware-pwa/shopware-6-client" "0.5.0"
+    "@shopware-pwa/shopware-6-client" "0.5.1"
     "@vue/composition-api" "^1.0.0-beta.17"
     axios "^0.20.0"
     cookie-universal "^2.1.4"
     query-string "^6.13.6"
     vue "^2.6.12"
 
-"@shopware-pwa/default-theme@0.5.0":
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/@shopware-pwa/default-theme/-/default-theme-0.5.0.tgz#03f1485a5953001438415d80c676316687d6db77"
-  integrity sha512-fglxE9TOqqOFwmtdUItfGSyGI8fqrYuaVGD4Jlhi/QqyXZecp0l75BrFcJR1scQaP2CDWjGXOI4bSGSdopuMcA==
+"@shopware-pwa/default-theme@0.5.1":
+  version "0.5.1"
+  resolved "https://registry.yarnpkg.com/@shopware-pwa/default-theme/-/default-theme-0.5.1.tgz#5ea79172df748a3102344668f4434aeaedc6211e"
+  integrity sha512-miESyyebbvliVVGJ/QI3EbN3sdFTnqDNzfyTP552s+S0aM9dCUP0g48ObFw5JDsvHsyCmCqKTJ1sMDo2xaCuPQ==
   dependencies:
-    "@shopware-pwa/theme-base" "0.5.0"
+    "@shopware-pwa/theme-base" "0.5.1"
     "@storefront-ui/vue" "0.7.18"
     core-js "^3.6.5"
     dayjs "^1.9.3"
@@ -1544,17 +1544,17 @@
     vue-i18n "^8.22.0"
     vuelidate "^0.7.5"
 
-"@shopware-pwa/helpers@0.5.0":
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/@shopware-pwa/helpers/-/helpers-0.5.0.tgz#5e30bdd7a455e1da7d7b02736aad1eec1d576c95"
-  integrity sha512-gKXTyQMwFafnFSaXi23sTc75bT8gnKRIr/COXQOplVLysLB/niyqlMi8iMYztVhYnqioBHdy1Zq5qeqsSNBrHw==
+"@shopware-pwa/helpers@0.5.1":
+  version "0.5.1"
+  resolved "https://registry.yarnpkg.com/@shopware-pwa/helpers/-/helpers-0.5.1.tgz#0a0419fa79becdf5c283b95000f43a6d3aeb02c1"
+  integrity sha512-G4aBEikNTrSk+5Gw9mhyxHiIiftWpSpdtXp+XTctqW0/ImD4C55mgnRQmasaAJzAynvA0yEw8MVdOPUGcAyWRQ==
   dependencies:
     query-string "^6.13.6"
 
-"@shopware-pwa/nuxt-module@^0.5.0":
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/@shopware-pwa/nuxt-module/-/nuxt-module-0.5.0.tgz#94ec5b8a9653f9dcd4345ad927b4cfd0147aa94f"
-  integrity sha512-KJ7Q/QmaEMkP0HvgP4BltfGbv04xYKwUOqsI9NbG/XrwUw0jOIIYPLtszaja7VFQmMS9zoS1ypnrx2LPk/nadw==
+"@shopware-pwa/nuxt-module@^0.5.1":
+  version "0.5.1"
+  resolved "https://registry.yarnpkg.com/@shopware-pwa/nuxt-module/-/nuxt-module-0.5.1.tgz#1f7fa3edf5446e4190b201d4298b6c81b07c82c4"
+  integrity sha512-px76tiTDeZLv5v2+w512hqWAz8sO2O5rYPH9rjB5Q5p3DRJ90XUSpbsh1EwKYjAQQs4KBZXf4ZflCoXSCdMA5g==
   dependencies:
     "@babel/plugin-proposal-nullish-coalescing-operator" "^7.12.1"
     "@babel/plugin-proposal-optional-chaining" "^7.12.1"
@@ -1562,12 +1562,12 @@
     "@nuxt/typescript-build" "^2.0.3"
     "@nuxt/typescript-runtime" "^2.0.0"
     "@nuxt/utils" "^2.14.7"
-    "@shopware-pwa/cli" "0.5.0"
-    "@shopware-pwa/commons" "0.5.0"
-    "@shopware-pwa/composables" "0.5.0"
-    "@shopware-pwa/default-theme" "0.5.0"
-    "@shopware-pwa/helpers" "0.5.0"
-    "@shopware-pwa/shopware-6-client" "0.5.0"
+    "@shopware-pwa/cli" "0.5.1"
+    "@shopware-pwa/commons" "0.5.1"
+    "@shopware-pwa/composables" "0.5.1"
+    "@shopware-pwa/default-theme" "0.5.1"
+    "@shopware-pwa/helpers" "0.5.1"
+    "@shopware-pwa/shopware-6-client" "0.5.1"
     chokidar "^3.4.3"
     cookie-universal "^2.1.4"
     cosmiconfig "^7.0.0"
@@ -1584,18 +1584,18 @@
     vue-template-compiler "^2.6.12"
     vuex "^3.5.1"
 
-"@shopware-pwa/shopware-6-client@0.5.0":
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/@shopware-pwa/shopware-6-client/-/shopware-6-client-0.5.0.tgz#f4e6dbd8737f485f202a15ec953e4fbc32318b17"
-  integrity sha512-4XQyJFKluQsLEpjQq1l9oXh37nmWdV46jk20HvVBDq6gStUKwuiWs05IhZ3ALt0tbK+vj2eMU6BQU5byF5bV4g==
+"@shopware-pwa/shopware-6-client@0.5.1":
+  version "0.5.1"
+  resolved "https://registry.yarnpkg.com/@shopware-pwa/shopware-6-client/-/shopware-6-client-0.5.1.tgz#3247b04a13199c5d03690847cb16b9f8afe062f4"
+  integrity sha512-eY0XG0MmJa7JoASNB7vraDILmqHgFkjIvKJTdDJQBPGB8B6v0Gg+rEU2VPB90bayIK7tTC+XD8dfvzACGnhJ4Q==
   dependencies:
     axios "^0.20.0"
     query-string "^6.13.6"
 
-"@shopware-pwa/theme-base@0.5.0":
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/@shopware-pwa/theme-base/-/theme-base-0.5.0.tgz#2be0793c24849569d79dbc4d26c6df1f292d48e3"
-  integrity sha512-Y8NRjKA17f1LabZto4q/loL69+VQRLcrEZgnP0qDsASYOUn0+sprkcp644pbgULRZUEI8sJvOYZTPPLCUosQMQ==
+"@shopware-pwa/theme-base@0.5.1":
+  version "0.5.1"
+  resolved "https://registry.yarnpkg.com/@shopware-pwa/theme-base/-/theme-base-0.5.1.tgz#bf3e7f4b8f6e7cd663ff93506e49591d80cb1aaf"
+  integrity sha512-ezOpS+aVnKM9J0cvKK6O1ocs7+CLPW7eFdoGqsgvD46MkA4ZWo5YKO1n+abcga5gWVqQFQBnApJd8YelTfpF1Q==
   dependencies:
     currency.js "^2.0.3"
 
